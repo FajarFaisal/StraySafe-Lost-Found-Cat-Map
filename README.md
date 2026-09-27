@@ -132,6 +132,10 @@ Seed the database with a realistic local dataset (your actual neighborhood), wri
 **Day 16 -- Buffer + submission**
 Deploy to Vercel/Netlify, write the submission writeup, rest.
 
+## Deploying
+
+Works on Vercel or Netlify with zero config -- connect the GitHub repo, set the same env vars from `.env.local` in the host's dashboard, done. Both have generous free tiers, fine for a hackathon project.
+
 ## Demo screenshots
 **Home page**
 <img width="1426" height="840" alt="image" src="https://github.com/user-attachments/assets/f5111ae7-41bf-4412-84f4-18c121916bc0" />
@@ -156,7 +160,3 @@ Deploy to Vercel/Netlify, write the submission writeup, rest.
 
 **Live Analytics Dashboard**
 <img width="1096" height="906" alt="image" src="https://github.com/user-attachments/assets/2656ff69-a070-4ad7-8402-28850cfa8408" />
-
-## Deploying
-
-Works on Vercel or Netlify with zero config -- connect the GitHub repo, set the same env vars from `.env.local` in the host's dashboard, done. Both have generous free tiers, fine for a hackathon project.
