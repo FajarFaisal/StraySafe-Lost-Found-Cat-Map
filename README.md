@@ -132,6 +132,31 @@ Seed the database with a realistic local dataset (your actual neighborhood), wri
 **Day 16 -- Buffer + submission**
 Deploy to Vercel/Netlify, write the submission writeup, rest.
 
+## Demo screenshots
+**Home page**
+<img width="1426" height="840" alt="image" src="https://github.com/user-attachments/assets/f5111ae7-41bf-4412-84f4-18c121916bc0" />
+
+**Reporting cat**
+<img width="2244" height="1138" alt="image" src="https://github.com/user-attachments/assets/e06ab070-0c02-44cd-917e-c09581001557" />
+
+<img width="798" height="854" alt="image" src="https://github.com/user-attachments/assets/f7c5a4d0-5252-48d2-9328-a94a39983521" />
+
+<img width="2212" height="918" alt="image" src="https://github.com/user-attachments/assets/fd5a9a6a-62db-4e07-948f-ff6c88446f51" />
+
+<img width="1944" height="788" alt="image" src="https://github.com/user-attachments/assets/4f88c71f-43f1-42c6-a541-d6300724ed3e" />
+
+<img width="1256" height="786" alt="image" src="https://github.com/user-attachments/assets/79a02d96-aaf1-433c-bdcd-2e93a76f9d72" />
+
+
+**Cat is marked found**
+<img width="1204" height="1032" alt="image" src="https://github.com/user-attachments/assets/de05121b-269e-402e-b3ab-0fb0dc657410" />
+
+<img width="1242" height="1040" alt="image" src="https://github.com/user-attachments/assets/857f2c10-b683-4377-87c5-1df6e037cfaa" />
+
+
+**Live Analytics Dashboard**
+<img width="1096" height="906" alt="image" src="https://github.com/user-attachments/assets/2656ff69-a070-4ad7-8402-28850cfa8408" />
+
 ## Deploying
 
 Works on Vercel or Netlify with zero config -- connect the GitHub repo, set the same env vars from `.env.local` in the host's dashboard, done. Both have generous free tiers, fine for a hackathon project.
